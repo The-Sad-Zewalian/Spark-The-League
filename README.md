@@ -18,6 +18,8 @@ We scraped data into 5 files:
 - Id_To_ChampionName.txt: Contains the ID for each champion.
 - Data.csv: Contains the match data, including the champions ID who won the match and their item IDs, and the same with the team who lost the match, duration time in minutes, bans, meta for both teams, and game version at which the game occurred.
 
+All these files are in the Mini2Data.zip
+
 Notes:
 
 - Champions are the characters that players use in the game.
