@@ -50,7 +50,7 @@ Its too much to write.
 [Recommending Items](https://colab.research.google.com/drive/1vVgg1qimVxdOgyP3Tqh8OuNrdkRgL02J?usp=sharing)
 
 ## Requirements
-The projects require Python 3.5 or later and the following libraries:
+The project requires Python 3.5 or later and the following libraries:
 
 - riotwatcher
 - PySpark
