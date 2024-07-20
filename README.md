@@ -42,13 +42,6 @@ While working with the data, we noticed that there were duplicates, and some mat
 Oh Dear Lord, have mercy on those who want to know. I would recommend checking the pdf file.
 Its too much to write.
 
-## Google Colab Links
-[Collecting Data](https://colab.research.google.com/drive/1uJ2vrOI_2pWAlNcvK-XJV6QCEvMJsqeL?usp=sharing)
-
-[Main Code](https://colab.research.google.com/drive/1t-1qcc5qkNtoEt7tHJ0H6Oy_EGP0BHbC?usp=sharing)
-
-[Recommending Items](https://colab.research.google.com/drive/1vVgg1qimVxdOgyP3Tqh8OuNrdkRgL02J?usp=sharing)
-
 ## Requirements
 The project requires Python 3.5 or later and the following libraries:
 
